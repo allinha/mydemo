@@ -14,3 +14,4 @@ hello git! master th1
 hello git! hotFix th1
 111111111111111111111
 222222222222222222222
+本地使用SSH免密测试push 21:53
